@@ -1,6 +1,6 @@
 ### Hi, my name is Joseph Bouqdib 👋
 
-#### I am a full-stack developer, passionate about creating outstanding digital experiences. 
+#### I am a full-stack developer, passionate about learning and creating outstanding digital experiences. 
 
 - 👨‍💻 My main focus is on TypeScript, React.js and React Native
 - 💻 Things I've worked with include Python, Node.js, SQL, NoSQL
